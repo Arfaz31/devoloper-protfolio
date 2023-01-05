@@ -19,7 +19,7 @@
 
 .header {
   background: #fff8f3;
-  background-image: url(../images/header_bg.png), url(../images/developer.png);
+background-image: url(../images/header_bg.png), url(../images/developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, left;
 }
@@ -126,7 +126,7 @@ section {
   font-size: 18px;
   color: #757575;
   text-align: center;
-  margin: 30px 191px 50px 345px;
+ margin-bottom: 40px;
 }
 
 .skills-container {
